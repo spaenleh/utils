@@ -1,5 +1,6 @@
 {
   "name": "@spaenleh/utils",
   "version": "0.1.0",
+  "license": "MIT",
   "exports": "./mod.ts"
 }
